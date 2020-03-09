@@ -27,6 +27,11 @@ url: "https://jasonduquain.github.io" # the base hostname & protocol for your si
 twitter_username: jduquain
 github_username:  jasonduquain
 
+author: Jason Duquain
+linkedin_username: jduquain
+
+copyright: Full Stack Creative
+
 # Build settings
 # removed minima theme since it is now a regular theme
 # theme: minima
